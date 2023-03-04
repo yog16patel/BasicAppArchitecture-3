@@ -10,7 +10,7 @@ Will create more complex UI and business logic in future to other app.
 * Uses Kotlin Coroutines
 
 ## Not Used
-Dagger added. 
+No complex UI or any complex service calls 
 
 
 ## Purpose 
